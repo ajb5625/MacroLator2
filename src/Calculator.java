@@ -186,7 +186,6 @@ public class Calculator {
         }
         else if (bmi >= 60) {
             System.out.println("You are hyper obese (Obese Class VI)");
-            System.out.println("You haven't seen sunlight in years. Congratulations greaselord.");
         }
     }
 
